@@ -1,10 +1,9 @@
 @tailwind base;
 @tailwind components;
 
-
-/* .titulo {
-  @apply bg-red-500;
-} */
+body {
+  @apply bg-[#09090A] text-zinc-100;
+}
 
 
 
